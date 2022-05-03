@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ashok-Sandhyala
 - 👀 I’m interested in ...Blockchain
-- 🌱 I’m currently learning ...Hyperledger Fabric
+- 🌱 I’m am a core ethereum blockchain developer
 - 💞️ I’m looking to collaborate on ... Ethereum smartcontract creation
-- 📫 How to reach me ...
+- 📫 How to reach me ...ashokgf16@gmail.com
 
 <!---
 Ashok-Sandhyala/Ashok-Sandhyala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
